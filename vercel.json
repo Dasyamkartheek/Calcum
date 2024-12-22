@@ -23,5 +23,5 @@
         "dest": "Calcum/wsgi.py"
       }
     ],
-    "outputDirectory": "static"
+    "outputDirectory": "."
 }
