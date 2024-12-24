@@ -21,7 +21,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "Calcu/wsgi.py"
+      "dest": "Calcum/wsgi.py"
     }
   ],
   "outputDirectory": "."
